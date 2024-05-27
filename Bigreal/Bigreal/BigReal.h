@@ -1,10 +1,8 @@
 #pragma once
 // File: BigReal.cpp
 // Purpose: Create a class to hold bigger real numbers called BigReal.
-// Author: Ahmed saber ahmed, Omar mohamed abdelmelek, Amr ehab abdalzaher. 
+// Author:  Omar mohamed abdelmelek. 
 // Section: S19
-// ID: 20220021, 20220232, 20221110, respectivlly.
-// TA: Mohamed Talaat.
 // Date: 12 Oct 2023
 #ifndef _BIGREAL_HPP
 #define _BIGREAL_HPP
